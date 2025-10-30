@@ -3,6 +3,8 @@
 ## Main Idea
 A tool for retrospective search inside the videos using natural language. It'll have two main parts: frame extraction and processing the extracted frames with an LLM/SLM.
 
+<img width="1467" height="584" alt="vs" src="https://github.com/user-attachments/assets/c702e71f-6c48-4829-a8f5-9a20415513fb" />
+
 ## Features
 
 Frame extraction is in place and offers two extraction approaches, each optimized for different use cases:
